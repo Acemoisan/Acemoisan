@@ -2,7 +2,10 @@
 - 👀 I’m interested in Game Development and Asset Modelling
 - 🌱 I’m currently learning C#, Python, Unity and Blender
 - 💞️ I’m looking to collaborate on Game Jams and Projects
-- 📫 How to reach me Discord
+- 📫 Reach me from here: https://acemoisan.github.io/
+
+  Check out my Pinned Projects Below! ⤵ 🎮
+  
 
 <!---
 Acemoisan/Acemoisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
